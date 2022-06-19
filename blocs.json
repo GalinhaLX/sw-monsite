@@ -1,0 +1,16 @@
+{
+	"monsite": [
+		{
+			"visibility": true,
+			"template": "tpl3.html",
+			"title": "Mon titre",
+			"subtitle": "Mon sous titre"
+		},
+		{
+			"template": "tpl1.html",
+			"title": "John",
+			"subtitle": "DOE",
+			"visibility": true
+		}
+	]
+}
